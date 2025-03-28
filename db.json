@@ -1,0 +1,36 @@
+{
+    "devedor": {
+        "uf": "RS",
+        "cidade": "ENCANTADO"
+    },
+    "pixCopiaECola": "00020101021226920014br.gov.bcb.pix2570qrcodepix-h.bb.com.br/pix/v2/cobv/b2ffd604-d5fa-4bf9-98bb-8d8e89bf751052040000530398654071300.005802BR5925RELOJOARIA DE FREITAS GAR6012RONDONOPOLIS62070503***6304674E",
+    "valor": {
+        "original": "1300.00"
+    },
+    "chave": "hmtestes2@bb.com.br",
+    "calendario": {
+        "dataDeVencimento": "25-03-24T16: 03: 34.00-03: 00"
+    },
+    "txid": "001000007200000000001SIGER",
+    "recebedor": {
+        "uf": "MT",
+        "cidade": "RONDONOPOLIS",
+        "nomeFantasia": "",
+        "logradouro": "R TREZE DE MAIO RUA",
+        "nome": "RELOJOARIA DE FREITAS GARRIDO",
+        "cnpj": "95127446000198",
+        "email": "relojoaria@garrido.com",
+        "cep": 78740373
+    },
+    "revisao": 0,
+    "solicitacaoPagador": "Solicitacao Pix",
+    "status": "ATIVA",
+    "pix": [
+        {
+            "endToEndId": "teste12345",
+            "txid": "001000007200000000001SIGER",
+            "valor": "100.00",
+            "horario": "2020-09-09T20: 15: 00.358Z"
+        }
+    ]
+}
